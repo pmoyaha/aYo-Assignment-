@@ -28,6 +28,8 @@ DEPLOY THE SAMPLE.WAR FILE
 -Downloaded the war file 
 -save the the file in the directory to specify the file path
 -run the image 
+
+
 NOTE: if you are using docker compose there is no need to pull the images individually docker compose will manage that for you. 
 
 
